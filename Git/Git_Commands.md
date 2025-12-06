@@ -1,11 +1,5 @@
 # Git Commands Reference Guide
 
-**Version:** 1.0  
-**Last Updated:** October 2025  
-**Audience:** DevOps Engineers & Development Teams
-
----
-
 ## Table of Contents
 
 1. [Configuration & Setup](#configuration--setup)
